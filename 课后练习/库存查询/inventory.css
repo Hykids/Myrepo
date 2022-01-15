@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.box {
+    width: 540px;
+    height: 1100px;
+    background-color: #f6f6f8;
+    border: solid black 1px;
+    margin: 0 auto;
+}
+
+.top {
+    width: 540px;
+    height: 58px;
+    background-color: #0099ff;
+}
+
+.top span {
+    font-size: 20px;
+    color: #ffffff;
+    height: 58px;
+    line-height: 58px;
+    margin-left: 22px;
+}
+
+.top a {
+    font-size: 18px;
+    color: #ffffff;
+    float: right;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-right: 10px;
+}
+
+.top img {
+    height: 18px;
+}
+
+.box1 a {
+    display: block;
+    font-size: 17px;
+    height: 45px;
+    line-height: 45px;
+    color: black;
+    text-decoration: none;
+    background-color: #ffe9e1;
+}
+
+.box1 img {
+    height: 18px;
+    position: relative;
+    top: 2px;
+}
+
+.box2 {
+    background-color: #ffffff;
+    padding-top: 5px;
+}
+
+.demo {
+    height: 30px;
+    width: 420px;
+    position: relative;
+    font-size: 16px;
+    bottom: 10px;
+    color: #8f6e5b;
+    border: none;
+    background-color: #f7f7f7;
+}
+
+.box3 {
+    height: 82px;
+    background-color: #ffffff;
+    margin-top: 1px;
+}
+
+li {
+    float: left;
+    list-style: none;
+}
+
+.box3 .one li {
+    width: 180px;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.box3 .two li {
+    width: 180px;
+    font-size: 15px;
+    color: #8d8c94;
+}
+
+.box4 {
+    height: 70px;
+    background-color: #ffffff;
+    margin-top: 2px;
+}
+
+.box .three li {
+    width: 77px;
+    font-size: 17px;
+    line-height: 70px;
+}
+
+.three li:hover {
+    background-color: lightblue;
+}
+
+.box5 {
+    height: 165px;
+    background-color: #ffffff;
+    margin-top: 2px;
+
+}
+
+.box5:hover {
+    background-color: lightgray;
+}
+
+.box5 img {
+    height: 118px;
+    margin-top: 20px;
+    margin-left: 13px;
+}
+
+.box5 span {
+    float: left;
+}
+
+.four li {
+    padding-top: 10px;
+    height: 40px;
+    width: 96px;
+}
+
+.box6 {
+    height: 48px;
+    background-color: #f8f8f8;
+    margin-top: 77px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+
+}
+
+#nav1 {
+    width: 130px;
+    height: 118px
+}
+
+#nav2 {
+    margin-left: 20px;
+    width: 390px;
+    height: 118px;
+}
+
+.box6 img {
+    height: 48px;
+}
+
+hr {
+    border: none;
+    margin-top: 5px;
+    border-bottom: 1px dashed;
+}
